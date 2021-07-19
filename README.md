@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akspasap
 - 👀 I’m interested in ... Web evelopment, API integration,AWS
-- 🌱 I’m currently learning ... React and AWS
+- 🌱 I’m currently working and learning... ReactJs and AWS
 - 💞️ I’m looking to collaborate on ... Coding 
 - 📫 How to reach me ...
 
